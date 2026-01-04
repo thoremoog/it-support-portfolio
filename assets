@@ -1,0 +1,7 @@
+assets/
+├─ screenshots/
+│  ├─ windows/
+│  ├─ m365/
+│  ├─ azure/
+│  └─ security/
+└─ certificates/
