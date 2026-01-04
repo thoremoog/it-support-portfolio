@@ -12,7 +12,7 @@ im Bereich **IT Support / Service Desk / Microsoft 365 / Azure / Security / Endp
 Ich bin IT-Quereinsteiger mit starkem Interesse an Support, Cloud und Security.
 Meine Lerninhalte und Praxisprojekte dokumentiere ich strukturiert in Form von **Case Studies** und **Labs**.
 
-➡️ LinkedIn: (Link einfügen)  
+➡️ LinkedIn: (https://www.linkedin.com/in/thore-moog1/)
 ➡️ GitHub: (dieses Repo)
 
 ---
